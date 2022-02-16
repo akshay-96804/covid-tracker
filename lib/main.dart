@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: SplashScreen(
         loaderColor: Colors.orange,
-        loadingText: Text('Stay Home Stay Safe!!!',style: TextStyle(
+        loadingText: Text('Stay Home Stay Safe Stay Healthy!!!',style: TextStyle(
           fontFamily: 'MyFont',
           fontWeight: FontWeight.bold),),
         imageBackground: AssetImage('images/covidNew.png'),
